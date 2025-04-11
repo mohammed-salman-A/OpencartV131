@@ -174,3 +174,19 @@
 18:31:27 [main] INFO  testCases.TC002_LoginTest - Clicked on 'My Account'
 18:31:28 [main] INFO  testCases.TC002_LoginTest - Clicked on 'Login'
 18:31:29 [main] INFO  testCases.TC002_LoginTest - **Finished Login Test**
+22:31:54 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Executing verify_Account_Registration****
+22:31:55 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+22:31:55 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+22:31:57 [main] INFO  testCases.TC001_AccountRegistrationTest - verifying the Account Created message
+22:32:00 [main] INFO  testCases.TC002_LoginTest - *** Starting verifyLogin Test
+22:32:00 [main] INFO  testCases.TC002_LoginTest - Clicked on 'My Account'
+22:32:01 [main] INFO  testCases.TC002_LoginTest - Clicked on 'Login'
+22:32:01 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Executing verify_Account_Registration****
+22:32:01 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+22:32:01 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+22:32:02 [main] INFO  testCases.TC002_LoginTest - **Finished Login Test**
+22:32:03 [main] INFO  testCases.TC001_AccountRegistrationTest - verifying the Account Created message
+22:32:06 [main] INFO  testCases.TC002_LoginTest - *** Starting verifyLogin Test
+22:32:06 [main] INFO  testCases.TC002_LoginTest - Clicked on 'My Account'
+22:32:07 [main] INFO  testCases.TC002_LoginTest - Clicked on 'Login'
+22:32:08 [main] INFO  testCases.TC002_LoginTest - **Finished Login Test**
